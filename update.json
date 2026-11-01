@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.1/Pixel4dev.downloader-Setup-1.0.1.exe",
-  "sha256": "a9c6f15c5b6ee8587612c85581e5282eb3798345a765904b5d569493dd3cdcfe",
-  "notes": "Faster pause/cancel, easier browser setup, new extension icons, self-update."
+  "version": "1.0.2",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.2/Pixel4dev.downloader-Setup-1.0.2.exe",
+  "sha256": "81c7fb706290d9f42baf06bc37dee8bb9bb080a429385302a60b4c783ec7bb30",
+  "notes": "Dropdown menus now have real rounded corners and a native drop shadow."
 }
