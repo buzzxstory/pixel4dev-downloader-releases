@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.3/Pixel4dev.downloader-Setup-1.0.3.exe",
-  "sha256": "7a571d08d0dbdfe3fae9a369321ac29f226ce9c60566accd7b6a1a5fa8d95819",
-  "notes": "Fixed: a dropdown menu could get stuck open and block the window (outside click / drag now works)."
+  "version": "1.0.4",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.4/Pixel4dev.downloader-Setup-1.0.4.exe",
+  "sha256": "5038625d074044445b6ae73fcd26a4e6de9ed3342f438fe595126ac542cd5b31",
+  "notes": "Fixed: Download & Install could overlap/clip if you checked for updates again mid-download."
 }
