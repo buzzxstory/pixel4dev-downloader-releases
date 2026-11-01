@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.4/Pixel4dev.downloader-Setup-1.0.4.exe",
-  "sha256": "5038625d074044445b6ae73fcd26a4e6de9ed3342f438fe595126ac542cd5b31",
-  "notes": "Fixed: Download & Install could overlap/clip if you checked for updates again mid-download."
+  "version": "1.0.5",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.5/Pixel4dev.downloader-Setup-1.0.5.exe",
+  "sha256": "8ed20f83f6d071cb2684b7201c12b02370874e1a359e1c5192a6f9a13ccf5438",
+  "notes": "Fixed: a paused download would restart from 0% instead of resuming, if the app was closed and reopened first."
 }
