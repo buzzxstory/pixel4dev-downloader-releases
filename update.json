@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.5/Pixel4dev.downloader-Setup-1.0.5.exe",
-  "sha256": "8ed20f83f6d071cb2684b7201c12b02370874e1a359e1c5192a6f9a13ccf5438",
-  "notes": "Fixed: a paused download would restart from 0% instead of resuming, if the app was closed and reopened first."
+  "version": "1.0.6",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.6/Pixel4dev.downloader-Setup-1.0.6.exe",
+  "sha256": "50fbb84b3a9bfdcb8cd1a49c4bba35e816573015731ed6f3a4a26f89c07ec312",
+  "notes": "Calmer sort menu and filter pill colors - simpler, easier on the eyes."
 }
