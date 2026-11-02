@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.6/Pixel4dev.downloader-Setup-1.0.6.exe",
-  "sha256": "50fbb84b3a9bfdcb8cd1a49c4bba35e816573015731ed6f3a4a26f89c07ec312",
-  "notes": "Calmer sort menu and filter pill colors - simpler, easier on the eyes."
+  "version": "1.0.7",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.7/Pixel4dev.downloader-Setup-1.0.7.exe",
+  "sha256": "3031a46bfacdf363cf2537d878bd1a46069f634bc4d4e9d5061f730f37ea2dea",
+  "notes": "Fixed: the Browser page could keep showing Waiting for the extension even after you connected - the extension now checks in with the app regularly."
 }
