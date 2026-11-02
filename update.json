@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.7/Pixel4dev.downloader-Setup-1.0.7.exe",
-  "sha256": "3031a46bfacdf363cf2537d878bd1a46069f634bc4d4e9d5061f730f37ea2dea",
-  "notes": "Fixed: the Browser page could keep showing Waiting for the extension even after you connected - the extension now checks in with the app regularly."
+  "version": "1.0.8",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.8/Pixel4dev.downloader-Setup-1.0.8.exe",
+  "sha256": "7d8713f8f1ca2f1dda7c81d0219a453032e7c3532e16d4d36926f49b5d7f633b",
+  "notes": "Added an Install updates automatically switch in Settings - the app can now update itself without you clicking Download & Install."
 }
