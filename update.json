@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.8/Pixel4dev.downloader-Setup-1.0.8.exe",
-  "sha256": "7d8713f8f1ca2f1dda7c81d0219a453032e7c3532e16d4d36926f49b5d7f633b",
-  "notes": "Added an Install updates automatically switch in Settings - the app can now update itself without you clicking Download & Install."
+  "version": "1.0.9",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.9/Pixel4dev.downloader-Setup-1.0.9.exe",
+  "sha256": "a885ec6e42df314b7ba60ef8ecd6609ee0b3d11b681f37d1976ff426c5ca7c48",
+  "notes": "Fixed: the app could disappear from Windows startup/Task Manager after a silent update - it now manages Start with Windows itself. Also fixed the installed exe's version info being stuck at 1.0.4."
 }
