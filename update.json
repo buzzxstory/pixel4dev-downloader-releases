@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.10/Pixel4dev.downloader-Setup-1.0.10.exe",
-  "sha256": "40611c4ae449f99e8e3b8e79f9503fdc81be1aca3da8b621d5ac4d1daa2e69a9",
-  "notes": "Added a real system tray icon. Closing the window now minimizes to the tray instead of quitting - left/double-click to reopen, right-click for Open/Quit."
+  "version": "1.0.11",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.11/Pixel4dev.downloader-Setup-1.0.11.exe",
+  "sha256": "5328d56f528e40dcff7aa0b7adfcf227938b3dc2bd826ee66bdeaa8c2a92c714",
+  "notes": "Added a Quit button in Settings - the X button and taskbar close only minimize to the tray now, so this gives an always-visible way to actually exit."
 }
