@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.11/Pixel4dev.downloader-Setup-1.0.11.exe",
-  "sha256": "5328d56f528e40dcff7aa0b7adfcf227938b3dc2bd826ee66bdeaa8c2a92c714",
-  "notes": "Added a Quit button in Settings - the X button and taskbar close only minimize to the tray now, so this gives an always-visible way to actually exit."
+  "version": "1.0.12",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.12/Pixel4dev.downloader-Setup-1.0.12.exe",
+  "sha256": "b5fef7d1bd61df6667495cd551734acc8d52b04c60fc54dce1c730cab039c824",
+  "notes": "Fixed: the tray icon could vanish for good if Windows Explorer ever restarted, even though the app kept running fine. It now notices and re-adds itself automatically."
 }
