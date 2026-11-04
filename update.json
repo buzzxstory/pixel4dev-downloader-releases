@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.9/Pixel4dev.downloader-Setup-1.0.9.exe",
-  "sha256": "a885ec6e42df314b7ba60ef8ecd6609ee0b3d11b681f37d1976ff426c5ca7c48",
-  "notes": "Fixed: the app could disappear from Windows startup/Task Manager after a silent update - it now manages Start with Windows itself. Also fixed the installed exe's version info being stuck at 1.0.4."
+  "version": "1.0.10",
+  "installer_url": "https://github.com/buzzxstory/pixel4dev-downloader-releases/releases/download/v1.0.10/Pixel4dev.downloader-Setup-1.0.10.exe",
+  "sha256": "40611c4ae449f99e8e3b8e79f9503fdc81be1aca3da8b621d5ac4d1daa2e69a9",
+  "notes": "Added a real system tray icon. Closing the window now minimizes to the tray instead of quitting - left/double-click to reopen, right-click for Open/Quit."
 }
